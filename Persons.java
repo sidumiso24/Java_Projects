@@ -1,6 +1,6 @@
 // poisedProject.java
-// written by: Sidumiso Debbie Mabaso
-// Date: 31 May 2020
+// Refactored by: Sidumiso Debbie Mabaso
+// Date: 01 June 2020
 // function: this part of the program is of created methods that will be called or implemented in 'Main.java'
 
 
@@ -87,3 +87,4 @@ public class Persons {
 	}
 
 }
+
